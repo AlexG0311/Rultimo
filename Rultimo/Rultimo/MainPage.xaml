@@ -20,6 +20,10 @@
                 Clicked="OnButtonClicked"/>
             
             
+            <Button Text="Precioname" 
+                Clicked="OnNewButtonClicked" 
+                HorizontalOptions="Center" 
+                VerticalOptions="CenterAndExpand"/>
         </VerticalStackLayout>
     </ScrollView>
 
